@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringBankOralApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringBankOralApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(SpringBankOralApplication.class, args);
+    }
 
 }

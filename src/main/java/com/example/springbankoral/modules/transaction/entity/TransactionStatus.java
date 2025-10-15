@@ -1,4 +1,7 @@
 package com.example.springbankoral.modules.transaction.entity;
 
-public class TransactionStatus {
+public enum TransactionStatus {
+    PENDING,
+    COMPLETED,
+    FAILED
 }
